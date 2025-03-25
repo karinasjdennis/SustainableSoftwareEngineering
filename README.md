@@ -19,23 +19,29 @@ Welcome! This repository contains the industry best practices and guidelines reg
 ## 📚 Categories
 
 ### Energy and Resource Efficiency
-Write something explaining this section
+Write something explaining this section...
 
-You can find all related resources in the [Energy and Resource Efficiency folder](./Energy-and-Resource-Efficiency/)
+You can find all related resources here: [Energy and Resource Efficiency folder](./Energy-and-Resource-Efficiency/)
 
 ### Software Architecture and Design
-Write something explaining this section
+Write something explaining this section...
 
-You can find all related resources in the [Software Architecture and Design folder](./Software Architecture and Design/)
+You can find all related resources here: [Software Architecture and Design folder](./Software-Architecture-and-Design/)
 
 ### Hardware and Infrastrucutre for Sustainability
-Write something explaining this section
+Write something explaining this section...
+
+You can find all related resources here: [Hardware and Infrastructure for Sustainability folder](./Hardware-and-Infrastructure-for-Sustainability/)
 
 ### Sustainable Development and Operations
-Write something explaining this section
+Write something explaining this section...
+
+You can find all related resources here: [Sustainable Development and Operations folder](./Sustainable-Development-and-Operations/)
 
 ### AI and Emerging Technologies
-Write something explaining this section
+Write something explaining this section...
+
+You can find all related resources here: [AI and Emerging Technologies folder](./AI-and-Emerging-Technologies/)
 
 ## 💡 How to Contribute
 
