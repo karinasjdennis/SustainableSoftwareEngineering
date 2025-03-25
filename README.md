@@ -6,7 +6,7 @@ Welcome! This repository contains the industry best practices and guidelines reg
 
 - 🌎 Why building sustainable technology is important?
 - 📚 Categories:
-  - Engineering Energy and Resources
+  - [Engineering Energy and Resources] (#energy-and-resource-efficiency)
   - Software Architecture and Design
   - Hardware and Infrastrucutre for Sustainability
   - Sustainable Development and Operations
@@ -18,7 +18,7 @@ Welcome! This repository contains the industry best practices and guidelines reg
 
 ## 📚 Categories
 
-### Engineering Energy and Resources 
+### Energy and Resource Efficiency
 
 ### Software Architecture and Design
 
