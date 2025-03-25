@@ -26,7 +26,7 @@ You can find all related resources in the [Energy and Resource Efficiency folder
 ### Software Architecture and Design
 Write something explaining this section
 
-You can find all related resources in the [Software Architecture and Design folder](./SustainableSoftwareEngineering/software-architecture-and-design/)
+You can find all related resources in the [Software Architecture and Design folder](./Software Architecture and Design/)
 
 ### Hardware and Infrastrucutre for Sustainability
 Write something explaining this section
