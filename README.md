@@ -21,7 +21,7 @@ Welcome! This repository contains the industry best practices and guidelines reg
 ### Energy and Resource Efficiency
 Write something explaining this section
 
-You can find all related resources in the [Energy and Resource Efficiency folder](./)
+You can find all related resources in the [Energy and Resource Efficiency folder](./Energy-and-Resource-Efficiency/)
 
 ### Software Architecture and Design
 Write something explaining this section
