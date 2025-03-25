@@ -15,6 +15,7 @@ Welcome! This repository contains the industry best practices and guidelines reg
 
 
 ## 🌎 Why building sustainable technology is important?
+Add...
 
 ## 📚 Categories
 
