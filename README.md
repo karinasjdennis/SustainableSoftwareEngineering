@@ -20,7 +20,7 @@ You’ll also find a growing collection of recommended books, websites, videos, 
   - [Sustainable Development and Operations](#sustainable_development_and_operations)
   - [AI and Emerging Technologies](#ai-and-emerging-technologies)
 - 💡 How to Contribute
-- 📖 Licenseing
+- 📖 Licensing
 
 
 ## 🌎 Why building sustainable technology is important?
