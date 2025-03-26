@@ -1,4 +1,4 @@
-# 🌿 Sustainable Software Engineering
+# 🌿 Guidelines for Developing Energy Efficient and Sustainable Software
 
 Welcome! This repository contains the industry best practices and guidelines regarding sustainable technology. There are a variety of books, websites, videos and courses dedicated to help you learn about sustainable technology and keep up to date with the latest advances. 
 
