@@ -11,15 +11,7 @@ As part of this contribution, a practical checklist has been provided — design
 You’ll also find a growing collection of recommended books, websites, videos, and courses to support continuous learning and awareness of the latest advances in sustainable technology.
 
 
-
-
-
-
-
 License and Contributions
-
-
-
 All materials in this repository are shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless otherwise stated. You are free to use, adapt, and share the content with appropriate attribution.
 
 
@@ -118,7 +110,8 @@ Explanation...
 You can find all related resources here: [AI and Emerging Technologies folder](./AI-and-Emerging-Technologies/)
 
 ## 💡 How to Contribute
-We welcome contributions! Check out [Contributions] for more details.
+We welcome contributions! If you would like to suggest improvements, add new resources, or share implementation experiences, please open an issue or submit a pull request. Together, we can advance sustainable digital development for everyone.
+Check out [Contributions](./Contributing.md/) for more details.
 
 
 ## 📖 Licensing
