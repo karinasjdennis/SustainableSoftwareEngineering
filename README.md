@@ -10,62 +10,6 @@ As part of this contribution, a practical checklist has been provided — design
 
 You’ll also find a growing collection of recommended books, websites, videos, and courses to support continuous learning and awareness of the latest advances in sustainable technology.
 
-
-License and Contributions
-All materials in this repository are shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless otherwise stated. You are free to use, adapt, and share the content with appropriate attribution.
-
-
-
-We welcome contributions! If you would like to suggest improvements, add new resources, or share implementation experiences, please open an issue or submit a pull request. Together, we can advance sustainable digital development for everyone.
-
-
-And adding markdowns like:
-
-CODE_OF_CONDUCT.md
-
-
-
-
-
-
-
-Contributor Code of Conduct
-
-
-
-This project is part of the Green Digital Action pillar under the UN ITU and aims to foster a respectful, inclusive, and collaborative environment for all contributors.
-
-
-
-We are committed to ensuring that participation in this project is a harassment-free experience for everyone, regardless of age, gender identity, race, religion, ability, or background.
-
-
-
-Expected Behaviour
-• Be respectful, considerate, and inclusive in all interactions.
-• Provide constructive feedback and remain open to alternative viewpoints.
-• Acknowledge and value the contributions of others.
-• Use welcoming and inclusive language.
-
-
-
-Unacceptable Behaviour
-• Harassment, intimidation, or discrimination in any form.
-• Personal attacks or insults.
-• Unwelcome sexual attention or advances.
-• Dismissing or demeaning other participants.
-
-
-
-Reporting Issues
-If you experience or witness unacceptable behaviour, please report it by contacting the repository maintainers through GitHub Issues or by email (if provided in the repository README).
-All reports will be handled with confidentiality and seriousness.
-
-
-This Code of Conduct is adapted from the Contributor Covenant, version 2.1
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
-
-
 ## 📌 Table of Contents
 
 - 🌎 Why building sustainable technology is important?
@@ -115,6 +59,8 @@ Check out [Contributions](./Contributing.md/) for more details.
 
 
 ## 📖 Licensing
+All materials in this repository are shared under the Creative Commons Attribution 4.0 International License (CC BY 4.0), unless otherwise stated. You are free to use, adapt, and share the content with appropriate attribution.
+
 By submitting a contribution, you agree that it will be released under the repository’s Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 
