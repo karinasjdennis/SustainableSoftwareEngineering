@@ -21,6 +21,7 @@ You’ll also find a growing collection of recommended books, websites, videos, 
   - [AI and Emerging Technologies](#ai-and-emerging-technologies)
 - 💡 How to Contribute
 - 📖 Licensing
+-  Questions
 
 
 ## 🌎 Why building sustainable technology is important?
@@ -64,7 +65,7 @@ All materials in this repository are shared under the Creative Commons Attributi
 By submitting a contribution, you agree that it will be released under the repository’s Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
 
-Questions?
+### Questions?
 Feel free to open an issue to start a discussion or ask for clarification before submitting a pull request.
 
 
