@@ -1,6 +1,6 @@
 # 🌿 Guidelines for Developing Energy Efficient and Sustainable Software
 
-Welcome to the Software—Guidelines for Developing Energy-Efficient and Sustainable Software Repository
+Welcome to the Software—Guidelines for Developing Energy-Efficient and Sustainable Software Repository!
 
 This repository forms part of the Green Digital Action pillar under the United Nations International Telecommunication Union (UN ITU). It supports the global effort to embed sustainability into software development by curating and sharing best practices, technical guidance, and actionable resources.
 
